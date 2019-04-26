@@ -1,0 +1,4 @@
+#Sat Apr 14 22:22:35 CDT 2018
+base.0=C\:\\Users\\PennyPC\\AndroidStudioProjects\\ShowSensors\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.0=classes.dex
+renamed.0=classes.dex

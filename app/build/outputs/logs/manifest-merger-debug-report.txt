@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c07d18fa53cd4a06d0b63dfc36655597\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0040697ffdc8c62a1051a67d4c93f572\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\abefb4aa5b9f2bc90722323d55ff4e19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\6425b9f463ec206f706976581896525a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5b9507807bf16d0e85f3d3926267cb70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\0654d956f4709d54a2ac42fa7c5d3a9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bb56e94a5336cafd5966940bb21292ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ae9e494beaa1f5bab0b21b4ee75a9cb3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d842fab5bd39e022d416155c40700bec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a9b02ae56c5caa597a881f1c2a3988d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd62aa3831d538686da050a98d67eb81\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2bec4d907f5c2d9b192355473b68801\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0040697ffdc8c62a1051a67d4c93f572\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0040697ffdc8c62a1051a67d4c93f572\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.pennypc.showsensors.MainActivity
+ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c07d18fa53cd4a06d0b63dfc36655597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c07d18fa53cd4a06d0b63dfc36655597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0040697ffdc8c62a1051a67d4c93f572\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0040697ffdc8c62a1051a67d4c93f572\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\abefb4aa5b9f2bc90722323d55ff4e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\abefb4aa5b9f2bc90722323d55ff4e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\6425b9f463ec206f706976581896525a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\6425b9f463ec206f706976581896525a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5b9507807bf16d0e85f3d3926267cb70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5b9507807bf16d0e85f3d3926267cb70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\0654d956f4709d54a2ac42fa7c5d3a9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\0654d956f4709d54a2ac42fa7c5d3a9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bb56e94a5336cafd5966940bb21292ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bb56e94a5336cafd5966940bb21292ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ae9e494beaa1f5bab0b21b4ee75a9cb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ae9e494beaa1f5bab0b21b4ee75a9cb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d842fab5bd39e022d416155c40700bec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d842fab5bd39e022d416155c40700bec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a9b02ae56c5caa597a881f1c2a3988d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a9b02ae56c5caa597a881f1c2a3988d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd62aa3831d538686da050a98d67eb81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd62aa3831d538686da050a98d67eb81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2bec4d907f5c2d9b192355473b68801\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PennyPC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2bec4d907f5c2d9b192355473b68801\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PennyPC\AndroidStudioProjects\ShowSensors\app\src\main\AndroidManifest.xml
